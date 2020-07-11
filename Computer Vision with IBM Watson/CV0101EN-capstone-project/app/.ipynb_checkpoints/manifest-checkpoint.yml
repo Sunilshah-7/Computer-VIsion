@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Fire-Vision-Alert
+   random-random: true
+   memory: 128M
